@@ -35,7 +35,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
     ```sql
     CREATE DATABASE crud_db;
     ```
-### Execuçao do Projeto
+### Execução do Projeto
 
 1. Clone este reporitorio:
     ```
@@ -45,3 +45,4 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
     ```
     cd CRUD-JDBC
     ```
+3. Execute o projeto.

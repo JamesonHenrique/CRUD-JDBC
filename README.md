@@ -35,5 +35,13 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
     ```sql
     CREATE DATABASE crud_db;
     ```
+### Execuçao do Projeto
 
-
+1. Clone este reporitorio:
+    ```
+    git clone https://github.com/JamesonHenrique/CRUD-JDBC.git
+    ```
+2. Navegue até o diretório do projeto:
+    ```
+    cd CRUD-JDBC
+    ```

@@ -1,5 +1,7 @@
 # CRUD com Java JDBC e PostgreSQL
-[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyM3KOh9adIF906yhJv6XyIGsnrQverq3VRA&s]
+
+![CRUD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyM3KOh9adIF906yhJv6XyIGsnrQverq3VRA&s)
+
 Diante da pergunta: 'Um desenvolvedor pleno deve obrigatoriamente saber fazer CRUD?' decidi colocar meus conhecimentos em prática e desenvolver um CRUD utilizando Java puro e PostgreSQL.
 
 Este projeto demonstra a criação de um sistema CRUD (Create, Read, Update, Delete) usando Java JDBC e PostgreSQL.

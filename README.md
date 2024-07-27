@@ -9,7 +9,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 - [Java JDK 8+](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 - [PostgreSQL](https://www.postgresql.org/download/)
-- Uma IDE de sua escolha (recomdo[IntelliJ IDEA](https://www.jetbrains.com/idea/download/))
+- Uma IDE de sua escolha (recomendo: [IntelliJ IDEA](https://www.jetbrains.com/idea/download/))
 
 ## Configuração do Ambiente
 
